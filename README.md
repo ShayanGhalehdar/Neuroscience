@@ -58,7 +58,3 @@ Open MATLAB in this folder and run any script directly, e.g.:
 ```
 
 Subfolders contain their own `.mat` data files where needed.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
