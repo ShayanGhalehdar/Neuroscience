@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+sccprj/
+codegen/
+*.autosave
+octave-workspace
+
+# OS
+.DS_Store
+Thumbs.db
